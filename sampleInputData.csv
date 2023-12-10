@@ -1,0 +1,12 @@
+﻿Index No,Order ID,Customer Name,Phone Number,Customer Address,Demand,ready_time,due_time,service_time
+0,0,warehouse,51111128128,"G-10, Islamabad",0,0,1266,0
+1,1,Ahmad,3174537234,"F-8, Islamabad",9,682,826,90
+2,2,Ahsan ,3174537235,"G-11, Islamabad",5,233,974,90
+3,3,Ali,3174537236,"G-13, Islamabad",20,633,856,90
+4,4,Danial,3174537237,"Air University, Islamabad",4,559,373,90
+5,5,Abdullah,3174537238,"F-11, Islamabad",16,772,193,90
+6,6,Ahmad,3174537239,"E-11, Islamabad",7,135,637,90
+7,7,Ahsan ,3174537240,"FAST NUCES, Islamabad",17,487,450,90
+8,8,Ali,3174537241,"Bahria University, Islamabad",4,659,581,90
+9,9,Danial,3174537242,"E-9, Islamabad",18,1000,205,90
+10,10,Abdullah,3174537243,"F-10, Islamabad",10,663,365,90
